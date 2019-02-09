@@ -1,0 +1,16 @@
+{
+  "seriesName": "SUPER FORMULA",
+  "seriesFormalName": "SUPER FORMULA",
+  "season": "2019",
+  "races": [
+    { "date": "2019-03-05", "name": "Official Test - Suzuka Circuit" },
+    { "date": "2019-03-27", "name": "Official Test - Fuji Speedway" },
+    { "date": "2019-04-21", "name": "Suzuka Circuit" },
+    { "date": "2019-05-19", "name": "Autopolis" },
+    { "date": "2019-06-23", "name": "Sportsland SUGO" },
+    { "date": "2019-07-14", "name": "Fuji Speedway" },
+    { "date": "2019-08-18", "name": "Twin Ring Motegi" },
+    { "date": "2019-09-29", "name": "Okayama International Circuit" },
+    { "date": "2019-10-27", "name": "Suzuka Circuit" }
+  ]
+}
