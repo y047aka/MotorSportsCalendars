@@ -1,0 +1,57 @@
+{
+  "seriesName": "NASCAR",
+  "seriesFormalName": "Monster Energy NASCAR Cup Series",
+  "season": "2019",
+  "races": [
+    { "date": "2019-02-10", "name": "Advance Auto Parts Clash" },
+    { "date": "2019-02-14", "name": "Gander RV Duel 1 At DAYTONA" },
+    { "date": "2019-02-14", "name": "Gander RV Duel 2 At DAYTONA" },
+    { "date": "2019-02-17", "name": "DAYTONA 500" },
+    { "date": "2019-02-24", "name": "Folds of Honor QuikTrip 500" },
+
+    { "date": "2019-03-03", "name": "Pennzoil 400 presented by Jiffy Lube" },
+    { "date": "2019-03-10", "name": "TicketGuardian 500" },
+    { "date": "2019-03-17", "name": "Auto Club 400" },
+    { "date": "2019-03-24", "name": "STP 500" },
+    { "date": "2019-03-31", "name": "O’Reilly Auto Parts 500" },
+
+    { "date": "2019-04-07", "name": "Food City 500" },
+    { "date": "2019-04-13", "name": "TOYOTA OWNERS 400" },
+    { "date": "2019-04-28", "name": "GEICO 500" },
+
+    { "date": "2019-05-05", "name": "Monster Energy NASCAR Cup Series Race at Dover" },
+    { "date": "2019-05-11", "name": "Monster Energy NASCAR Cup Series Race at Kansas" },
+    { "date": "2019-05-18", "name": "Monster Energy Open" },
+    { "date": "2019-05-18", "name": "Monster Energy NASCAR All-Star Race" },
+    { "date": "2019-05-26", "name": "Coca-Cola 600" },
+
+    { "date": "2019-06-02", "name": "Pocono 400" },
+    { "date": "2019-06-09", "name": "FireKeepers Casino 400" },
+    { "date": "2019-06-23", "name": "Toyota / Save Mart 350" },
+    { "date": "2019-06-30", "name": "Camping World 400" },
+
+    { "date": "2019-07-06", "name": "Coke Zero Sugar 400" },
+    { "date": "2019-07-13", "name": "Quaker State 400 Presented by Walmart" },
+    { "date": "2019-07-21", "name": "Foxwoods Resort Casino 301" },
+    { "date": "2019-07-28", "name": "Gander Outdoors 400" },
+
+    { "date": "2019-08-04", "name": "Go Bowling at The Glen" },
+    { "date": "2019-08-11", "name": "Consumers Energy 400" },
+    { "date": "2019-08-17", "name": "Bass Pro Shops NRA Night Race" },
+
+    { "date": "2019-09-01", "name": "Bojangles’ Southern 500" },
+    { "date": "2019-09-08", "name": "Big Machine Vodka 400 at the Brickyard Powered By Florida Georgia Line" },
+    { "date": "2019-09-15", "name": "*South Point 400" },
+    { "date": "2019-09-21", "name": "*Federated Auto Parts 400" },
+    { "date": "2019-09-29", "name": "*Bank of America ROVAL 400" },
+
+    { "date": "2019-10-06", "name": "*Monster Energy NASCAR Cup Series Race at Dover" },
+    { "date": "2019-10-13", "name": "*1000Bulbs.com 500" },
+    { "date": "2019-10-20", "name": "*Hollywood Casino 400" },
+    { "date": "2019-10-27", "name": "*First Data 500" },
+
+    { "date": "2019-11-03", "name": "*AAA Texas 500" },
+    { "date": "2019-11-10", "name": "*Monster Energy NASCAR Cup Series Race at ISM Raceway" },
+    { "date": "2019-11-17", "name": "*Ford EcoBoost 400" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "seriesName": "WTCR",
+  "seriesFormalName": "World Touring Car Cup presented by OSCARO",
+  "season": "2019",
+  "races": [
+    { "date": "2019-04-07", "name": "Race of Morocco" },
+    { "date": "2019-04-28", "name": "Race of Hungary" },
+    { "date": "2019-05-12", "name": "Race of Slovakia" },
+    { "date": "2019-05-19", "name": "Race of the Netherlands" },
+    { "date": "2019-06-22", "name": "Race of Germany" },
+    { "date": "2019-07-07", "name": "Race of Portugal" },
+    { "date": "2019-09-15", "name": "Race of China" },
+    { "date": "2019-10-27", "name": "Race of Japan" },
+    { "date": "2019-11-17", "name": "Guia Race of Macau" },
+    { "date": "2019-12-08", "name": "Race of Malaysia" }
+  ]
+}
