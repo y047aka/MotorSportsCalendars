@@ -1,0 +1,21 @@
+{
+  "seriesName": "WRC",
+  "seriesFormalName": "World Rally Championship",
+  "season": "2019",
+  "races": [
+    { "date": "2019-01-27", "name": "Rallye Automobile Monte Carlo" },
+    { "date": "2019-02-17", "name": "Rally Sweden" },
+    { "date": "2019-03-10", "name": "Rally Guanajuato México" },
+    { "date": "2019-03-31", "name": "Tour de Corse" },
+    { "date": "2019-04-28", "name": "Rally Argentina" },
+    { "date": "2019-05-12", "name": "Rally Chile" },
+    { "date": "2019-06-02", "name": "Rally de Portugal" },
+    { "date": "2019-06-16", "name": "Rally Italia Sardegna" },
+    { "date": "2019-08-04", "name": "Rally Finland" },
+    { "date": "2019-08-25", "name": "ADAC Rallye Deutschland" },
+    { "date": "2019-09-15", "name": "Rally of Turkey" },
+    { "date": "2019-10-06", "name": "Wales Rally GB" },
+    { "date": "2019-10-27", "name": "RACC Rally Catalunya de España" },
+    { "date": "2019-11-17", "name": "Rally Australia" }
+  ]
+}
