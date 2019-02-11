@@ -9,10 +9,18 @@
     { "date": "2019-05-05", "name": "Gran Premio Red Bull de España" },
     { "date": "2019-05-19", "name": "Grand Prix SHARK Helmets de France" },
     { "date": "2019-06-02", "name": "Gran Premio d'Italia Oakley" },
-    { "date": "2019-", "name": "" },
-    { "date": "2019-", "name": "" },
-    { "date": "2019-", "name": "" },
-    { "date": "2019-", "name": "" },
-    { "date": "2019-", "name": "" }
+    { "date": "2019-06-16", "name": "Gran Premi Monster Energy de Catalunya" },
+    { "date": "2019-06-30", "name": "Motul TT Assen" },
+    { "date": "2019-07-07", "name": "HJC Helmets Motorrad Grand Prix Deutschland" },
+    { "date": "2019-08-04", "name": "Monster Energy Grand Prix České republiky" },
+    { "date": "2019-08-11", "name": "myWorld Motorrad Grand Prix von Österreich" },
+    { "date": "2019-08-25", "name": "GoPro British Grand Prix" },
+    { "date": "2019-09-15", "name": "Gran Premio Octo di San Marino e della Riviera di Rimini" },
+    { "date": "2019-09-22", "name": "Gran Premio de Aragón" },
+    { "date": "2019-10-06", "name": "PTT Thailand Grand Prix" },
+    { "date": "2019-10-20", "name": "Motul Grand Prix of Japan" },
+    { "date": "2019-10-27", "name": "Australian Motorcycle Grand Prix" },
+    { "date": "2019-11-03", "name": "Shell Malaysia Motorcycle Grand Prix" },
+    { "date": "2019-11-17", "name": "Gran Premio Motul de la Comunitat Valenciana" }
   ]
 }
