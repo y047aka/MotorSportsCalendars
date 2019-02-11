@@ -1,0 +1,18 @@
+{
+  "seriesName": "MotoGP",
+  "seriesFormalName": "MotoGP World Championship",
+  "season": "2019",
+  "races": [
+    { "date": "2019-03-10", "name": "Grand Prix of Qatar" },
+    { "date": "2019-03-31", "name": "Gran Premio Motul de la República Argentina" },
+    { "date": "2019-04-14", "name": "Red Bull Grand Prix of The Americas" },
+    { "date": "2019-05-05", "name": "Gran Premio Red Bull de España" },
+    { "date": "2019-05-19", "name": "Grand Prix SHARK Helmets de France" },
+    { "date": "2019-06-02", "name": "Gran Premio d'Italia Oakley" },
+    { "date": "2019-", "name": "" },
+    { "date": "2019-", "name": "" },
+    { "date": "2019-", "name": "" },
+    { "date": "2019-", "name": "" },
+    { "date": "2019-", "name": "" }
+  ]
+}
