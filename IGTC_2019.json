@@ -1,0 +1,12 @@
+{
+  "seriesName": "IGTC",
+  "seriesFormalName": "Intercontinental GT Challenge",
+  "season": "2019",
+  "races": [
+    { "date": "2019-02-03", "name": "Liqui-Moly Bathurst 12 Hour" },
+    { "date": "2019-03-30", "name": "California 8 Hours" },
+    { "date": "2019-07-27", "name": "Total 24 Hours of Spa" },
+    { "date": "2019-08-25", "name": "Suzuka 10 Hours" },
+    { "date": "2019-11-23", "name": "Kyalami 9 Hour" }
+  ]
+}
