@@ -9,8 +9,8 @@
     { "date": "2019-05-08", "name": "Test Day ②" },
     { "date": "2019-06-02", "name": "Rd.3 FUJI" },
     { "date": "2019-07-21", "name": "Rd.4 AUTOPOLIS" },
-    { "date": "2019-09-15", "name": "Rd.5 MOTEGI" },
-    { "date": "2019-11-10", "name": "Rd.6 OKAYAMA" },
     { "date": "2019-08-25", "name": "Special Stage SUZUKA 10H" },
+    { "date": "2019-09-15", "name": "Rd.5 MOTEGI" },
+    { "date": "2019-11-10", "name": "Rd.6 OKAYAMA" }
   ]
 }
