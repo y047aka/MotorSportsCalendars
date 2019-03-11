@@ -4,11 +4,11 @@
   "season": "2019",
   "races": [
     { "date": "2019-02-09", "name": "Abu Dhabi 2019" },
-    { "date": "2019-02-09", "name": "Europe 2019" },
+    { "date": "2019-06-16", "name": "Europe 2019" },
     { "date": "2019-06-16", "name": "Kazan 2019" },
     { "date": "2019-07-14", "name": "Lake Balaton 2019" },
     { "date": "2019-09-08", "name": "Chiba 2019" },
-    { "date": "2019-09-08", "name": "Asia 2019" },
+    { "date": "2019-10-20", "name": "Asia 2019" },
     { "date": "2019-10-20", "name": "Indianapolis 2019" },
     { "date": "2019-11-09", "name": "Saudi Arabia 2019" }
   ]
