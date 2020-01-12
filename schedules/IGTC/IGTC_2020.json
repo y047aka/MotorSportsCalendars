@@ -1,0 +1,12 @@
+{
+  "seriesName": "IGTC",
+  "seriesFormalName": "Intercontinental GT Challenge",
+  "season": "2020",
+  "races": [
+    { "date": "2020-02-01", "name": "Liqui-Moly Bathurst 12 Hour" },
+    { "date": "2020-07-25", "name": "Total 24 Hours of Spa" },
+    { "date": "2020-08-23", "name": "Suzuka 10 Hours" },
+    { "date": "2020-10-04", "name": "Indianapolis 8 Hours" },
+    { "date": "2020-11-21", "name": "Kyalami 9 Hour" }
+  ]
+}
