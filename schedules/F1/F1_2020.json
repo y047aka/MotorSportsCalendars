@@ -1,0 +1,29 @@
+{
+  "seriesName": "F1",
+  "seriesFormalName": "Formula One World Championship",
+  "season": "2020",
+  "races": [
+    { "date": "2020-03-15", "name": "Australia" },
+    { "date": "2020-03-22", "name": "Bahrain" },
+    { "date": "2020-04-05", "name": "Vietnam" },
+    { "date": "2020-04-19", "name": "Chinese" },
+    { "date": "2020-05-03", "name": "Netherlands" },
+    { "date": "2020-05-10", "name": "Spain" },
+    { "date": "2020-05-24", "name": "Monaco" },
+    { "date": "2020-06-07", "name": "Azerbaijan" },
+    { "date": "2020-06-14", "name": "Canada" },
+    { "date": "2020-06-28", "name": "France" },
+    { "date": "2020-07-05", "name": "Austria" },
+    { "date": "2020-07-19", "name": "Great Britain" },
+    { "date": "2020-08-02", "name": "Hungary" },
+    { "date": "2020-08-30", "name": "Belgium" },
+    { "date": "2020-09-06", "name": "Italy" },
+    { "date": "2020-09-20", "name": "Singapore" },
+    { "date": "2020-09-27", "name": "Russia" },
+    { "date": "2020-10-11", "name": "Japan" },
+    { "date": "2020-10-25", "name": "United States" },
+    { "date": "2020-11-01", "name": "Mexico City" },
+    { "date": "2020-11-15", "name": "Brazil" },
+    { "date": "2020-11-29", "name": "Abu Dhabi" }
+  ]
+}
