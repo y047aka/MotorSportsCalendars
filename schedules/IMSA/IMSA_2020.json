@@ -1,0 +1,21 @@
+{
+  "seriesName": "IMSA WSCC",
+  "seriesFormalName": "IMSA WeatherTech SportsCar Championship",
+  "season": "2020",
+  "races": [
+    { "date": "2020-01-25", "name": "ROLEX 24 AT DAYTONA" },
+    { "date": "2020-03-21", "name": "MOBIL 1 TWELVE HOURS OF SEBRING PRESENTED BY ADVANCE AUTO PARTS" },
+    { "date": "2020-04-18", "name": "ACURA GRAND PRIX OF LONG BEACH" },
+    { "date": "2020-05-03", "name": "ACURA SPORTS CAR CHALLENGE AT MID-OHIO" },
+    { "date": "2020-05-30", "name": "CHEVROLET DETROIT GRAND PRIX PRESENTED BY LEAR" },
+
+    { "date": "2020-06-28", "name": "SAHLEN'S SIX HOURS OF THE GLEN" },
+    { "date": "2020-07-05", "name": "MOBIL 1 SPORTSCAR GRAND PRIX PRESENTED BY ACURA" },
+    { "date": "2020-07-18", "name": "NORTHEAST GRAND PRIX" },
+    { "date": "2020-08-02", "name": "ROAD AMERICA" },
+    { "date": "2020-08-23", "name": "MICHELIN GT CHALLENGE AT VIR" },
+
+    { "date": "2020-09-13", "name": "WEATHERTECH RACEWAY LAGUNA SECA" },
+    { "date": "2020-10-10", "name": "MOTUL PETIT LE MANS" }
+  ]
+}
