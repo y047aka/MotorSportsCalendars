@@ -1,0 +1,13 @@
+{
+  "seriesName": "ELMS",
+  "seriesFormalName": "European Le Mans Series",
+  "season": "2020",
+  "races": [
+    { "date": "2020-04-05", "name": "4 Hours of Barcelona 2020" },
+    { "date": "2020-05-10", "name": "4 Hours of Monza 2020" },
+    { "date": "2020-07-19", "name": "4 Hours of Le Castellet 2020" },
+    { "date": "2020-09-06", "name": "4 Hours of Silverstone 2020" },
+    { "date": "2020-09-20", "name": "4 Hours of Spa-Francorchamps 2020" },
+    { "date": "2020-10-18", "name": "4 Hours of Portimão 2020" }
+  ]
+}
