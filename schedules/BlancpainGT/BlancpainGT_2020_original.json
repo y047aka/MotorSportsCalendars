@@ -1,0 +1,18 @@
+{
+  "seriesName": "Blancpain GT",
+  "seriesFormalName": "Blancpain GT Series",
+  "season": "2020",
+  "races": [
+    { "date": "2020-04-19", "name": "Monza" },
+    { "date": "2020-05-03", "name": "Brands Hatch" },
+    { "date": "2020-05-10", "name": "Silverstone" },
+    { "date": "2020-05-30", "name": "Circuit Paul Ricard 1000km" },
+    { "date": "2020-06-28", "name": "Zandvoort" },
+
+    { "date": "2020-07-05", "name": "Misano" },
+    { "date": "2020-07-25", "name": "Total 24 Hours of Spa" },
+    { "date": "2020-09-06", "name": "Nürburgring" },
+    { "date": "2020-09-27", "name": "Hungaroring" },
+    { "date": "2020-10-11", "name": "Barcelona" }
+  ]
+}

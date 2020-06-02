@@ -1,0 +1,23 @@
+{
+  "seriesName": "WRC",
+  "seriesFormalName": "World Rally Championship",
+  "season": "2020",
+  "races": [
+    { "date": "2020-01-26", "name": "Rallye Monte-Carlo" },
+    { "date": "2020-02-16", "name": "Rally Sweden" },
+    { "date": "2020-03-15", "name": "Rally México" },
+    { "date": "2020-04-19", "name": "Rally Chile" },
+    { "date": "2020-05-03", "name": "Rally Argentina" },
+
+    { "date": "2020-05-24", "name": "Rally de Portugal" },
+    { "date": "2020-06-07", "name": "Rally Italia" },
+    { "date": "2020-07-19", "name": "Rally Kenya" },
+    { "date": "2020-08-09", "name": "Rally Finland" },
+    { "date": "2020-09-06", "name": "Rally New Zealand" },
+
+    { "date": "2020-09-27", "name": "Rally of Turkey" },
+    { "date": "2020-10-18", "name": "Rallye Deutschland" },
+    { "date": "2020-11-01", "name": "Rally Great Britain" },
+    { "date": "2020-11-22", "name": "Rally Japan" }
+  ]
+}

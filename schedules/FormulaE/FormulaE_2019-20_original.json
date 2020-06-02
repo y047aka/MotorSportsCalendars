@@ -1,0 +1,23 @@
+{
+  "seriesName": "Formula E",
+  "seriesFormalName": "ABB FIA Formula E Championship",
+  "season": "2019-20",
+  "races": [
+    { "date": "2019-11-22", "name": "Ad Diriyah E-Prix Race 1" },
+    { "date": "2019-11-23", "name": "Ad Diriyah E-Prix Race 2" },
+    { "date": "2020-01-18", "name": "Santiago E-Prix" },
+    { "date": "2020-02-15", "name": "Mexico City E-Prix" },
+    { "date": "2020-02-29", "name": "Marrakesh E-Prix" },
+
+    { "date": "2020-03-21", "name": "Sanya E-Prix" },
+    { "date": "2020-04-04", "name": "Rome E-Prix" },
+    { "date": "2020-04-18", "name": "Paris E-Prix" },
+    { "date": "2020-05-03", "name": "Seoul E-Prix" },
+    { "date": "2020-06-06", "name": "Jakarta E-Prix" },
+
+    { "date": "2020-06-21", "name": "Berlin E-Prix" },
+    { "date": "2020-07-11", "name": "New York City E-Prix" },
+    { "date": "2020-07-25", "name": "London E-Prix Race 2" },
+    { "date": "2020-07-26", "name": "London City E-Prix Race 2" }
+  ]
+}

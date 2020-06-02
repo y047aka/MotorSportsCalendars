@@ -1,0 +1,18 @@
+{
+  "seriesName": "DTM",
+  "seriesFormalName": "Deutsche Tourenwagen Masters",
+  "season": "2020",
+  "races": [
+    { "date": "2020-04-27", "name": "Zolder" },
+    { "date": "2020-05-18", "name": "Lausitzring" },
+    { "date": "2020-06-01", "name": "Igora Drive" },
+    { "date": "2020-06-15", "name": "Anderstorp" },
+    { "date": "2020-06-29", "name": "Monza" },
+
+    { "date": "2020-07-13", "name": "Norisring" },
+    { "date": "2020-08-24", "name": "Brands Hatch" },
+    { "date": "2020-09-07", "name": "Assen" },
+    { "date": "2020-09-14", "name": "Nürburgring" },
+    { "date": "2020-10-05", "name": "Hockenheim" }
+  ]
+}

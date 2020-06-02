@@ -1,0 +1,30 @@
+{
+  "seriesName": "MotoGP",
+  "seriesFormalName": "MotoGP World Championship",
+  "season": "2020",
+  "races": [
+    { "date": "2020-03-08", "name": "Grand Prix of Qatar" },
+    { "date": "2020-03-22", "name": "OR Thailand Grand Prix" },
+    { "date": "2020-04-05", "name": "Red Bull Grand Prix of The Americas" },
+    { "date": "2020-04-19", "name": "Gran Premio Motul de la República Argentina" },
+    { "date": "2020-05-03", "name": "Gran Premio Red Bull de España" },
+
+    { "date": "2020-05-17", "name": "SHARK Helmets Grand Prix de France" },
+    { "date": "2020-05-31", "name": "Gran Premio d'Italia Oakley" },
+    { "date": "2020-06-07", "name": "Gran Premi Monster Energy de Catalunya" },
+    { "date": "2020-06-21", "name": "HJC Helmets Motorrad Grand Prix Deutschland" },
+    { "date": "2020-06-28", "name": "Motul TT Assen" },
+
+    { "date": "2020-07-12", "name": "Finland Grand Prix" },
+    { "date": "2020-08-09", "name": "Monster Energy Grand Prix České republiky" },
+    { "date": "2020-08-16", "name": "myWorld Motorrad Grand Prix von Österreich" },
+    { "date": "2020-08-30", "name": "British Grand Prix" },
+    { "date": "2020-09-13", "name": "Gran Premio Octo di San Marino e della Riviera di Rimini" },
+
+    { "date": "2020-10-04", "name": "Gran Premio de Aragón" },
+    { "date": "2020-10-18", "name": "Motul Grand Prix of Japan" },
+    { "date": "2020-10-25", "name": "Australian Motorcycle Grand Prix" },
+    { "date": "2020-11-01", "name": "Shell Malaysia Motorcycle Grand Prix" },
+    { "date": "2020-11-15", "name": "Gran Premio Motul de la Comunitat Valenciana" }
+  ]
+}

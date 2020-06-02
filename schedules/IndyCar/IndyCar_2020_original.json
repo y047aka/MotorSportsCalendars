@@ -1,0 +1,27 @@
+{
+  "seriesName": "IndyCar",
+  "seriesFormalName": "IndyCar Series",
+  "season": "2020",
+  "races": [
+    { "date": "2020-03-15", "name": "Firestone Grand Prix of St. Petersburg" },
+    { "date": "2020-04-05", "name": "Honda Indy Grand Prix of Alabama" },
+    { "date": "2020-04-19", "name": "Acura Grand Prix of Long Beach" },
+    { "date": "2020-04-26", "name": "AutoNation INDYCAR Challenge" },
+    { "date": "2020-05-09", "name": "GMR Grand Prix" },
+
+    { "date": "2020-05-24", "name": "104th Running of the Indianapolis 500" },
+    { "date": "2020-05-30", "name": "Chevrolet Dual in Detroit Race 1" },
+    { "date": "2020-05-31", "name": "Chevrolet Dual in Detroit Race 2" },
+    { "date": "2020-06-06", "name": "TEXAS INDY 600" },
+    { "date": "2020-06-21", "name": "REV Group Grand Prix at Road America" },
+
+    { "date": "2020-07-27", "name": "Indy Richmond 300" },
+    { "date": "2020-07-12", "name": "Honda Indy Toronto" },
+    { "date": "2020-07-18", "name": "Iowa 300" },
+    { "date": "2020-08-16", "name": "Honda Indy 200 at Mid-Ohio" },
+    { "date": "2020-08-22", "name": "Bommarito Automotive Group 500" },
+
+    { "date": "2020-09-06", "name": "Grand Prix of Portland" },
+    { "date": "2020-09-20", "name": "Firestone Grand Prix of Monterey" }
+  ]
+}
