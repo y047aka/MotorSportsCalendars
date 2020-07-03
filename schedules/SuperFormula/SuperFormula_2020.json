@@ -3,12 +3,13 @@
   "seriesFormalName": "SUPER FORMULA",
   "season": "2020",
   "races": [
-    { "date": "2020-04-05", "name": "Suzuka Circuit" },
-    { "date": "2020-04-19", "name": "Fuji Speedway" },
-    { "date": "2020-05-17", "name": "Autopolis" },
-    { "date": "2020-06-21", "name": "Sportsland SUGO" },
     { "date": "2020-08-30", "name": "Twin Ring Motegi" },
     { "date": "2020-09-27", "name": "Okayama International Circuit" },
-    { "date": "2020-11-15", "name": "Suzuka Circuit" }
+
+    { "date": "2020-10-18", "name": "Sportsland SUGO" },
+    { "date": "2020-11-15", "name": "Autopolis" },
+    { "date": "2020-12-05", "name": "Suzuka Circuit" },
+    { "date": "2020-12-06", "name": "Suzuka Circuit" },
+    { "date": "2020-12-20", "name": "Fuji Speedway" }
   ]
 }
