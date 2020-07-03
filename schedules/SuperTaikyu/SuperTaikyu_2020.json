@@ -3,11 +3,11 @@
   "seriesFormalName": "PIRELLI Super Taikyu",
   "season": "2020",
   "races": [
-    { "date": "2020-03-22", "name": "Rd.1 SUZUKA (5H)" },
-    { "date": "2020-04-26", "name": "Rd.2 SUGO (3H *2Race)" },
-    { "date": "2020-06-07", "name": "Rd.3 FUJI (24H)" },
-    { "date": "2020-08-02", "name": "Rd.4 AUTOPOLIS (5H)" },
-    { "date": "2020-09-20", "name": "Rd.5 MOTEGI (5H)" },
-    { "date": "2020-11-15", "name": "Rd.6 OKAYAMA (3H *2Race)" }
+    { "date": "2020-09-06", "name": "Rd.1 FUJI (24H)" },
+    { "date": "2020-10-10", "name": "Rd.2 SUGO (3H *2Race)" },
+    { "date": "2020-10-31", "name": "Rd.3 OKAYAMA (3H *2Race)" },
+    { "date": "2020-11-22", "name": "Rd.4 MOTEGI (5H)" },
+    { "date": "2020-12-13", "name": "Rd.5 AUTOPOLIS (5H)" },
+    { "date": "2021-01-24", "name": "Rd.6 SUZUKA (5H)" }
   ]
 }
