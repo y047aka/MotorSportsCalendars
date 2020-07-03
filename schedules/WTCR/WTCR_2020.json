@@ -3,16 +3,11 @@
   "seriesFormalName": "World Touring Car Cup presented by OSCARO",
   "season": "2020",
   "races": [
-    { "date": "2020-04-05", "name": "Race of Morocco" },
-    { "date": "2020-04-26", "name": "Race of Hungary" },
-    { "date": "2020-05-23", "name": "Race of Germany" },
-    { "date": "2020-06-07", "name": "Race of Slovakia" },
-    { "date": "2020-06-21", "name": "Race of Portugal" },
-
-    { "date": "2020-05-05", "name": "Race of Spain" },
-    { "date": "2020-09-06", "name": "Race of China" },
-    { "date": "2020-10-18", "name": "Race of South Korea" },
-    { "date": "2020-11-22", "name": "Race of Macau" },
-    { "date": "2020-12-13", "name": "Race of Malaysia" }
+    { "date": "2020-09-12", "name": "Race of Austria" },
+    { "date": "2020-09-24", "name": "Race of Germany" },
+    { "date": "2020-10-10", "name": "Race of Slovakia" },
+    { "date": "2020-10-17", "name": "Race of Hungary" },
+    { "date": "2020-10-31", "name": "Race of Spain" },
+    { "date": "2020-11-14", "name": "Race of Italy" }
   ]
 }
