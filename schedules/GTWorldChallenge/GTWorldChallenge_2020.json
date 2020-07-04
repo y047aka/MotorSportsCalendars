@@ -3,16 +3,13 @@
   "seriesFormalName": "GT World Challenge",
   "season": "2020",
   "races": [
-    { "date": "2020-04-19", "name": "Monza" },
-    { "date": "2020-05-03", "name": "Brands Hatch" },
-    { "date": "2020-05-10", "name": "Silverstone" },
-    { "date": "2020-05-30", "name": "Circuit Paul Ricard 1000km" },
-    { "date": "2020-06-28", "name": "Zandvoort" },
-
-    { "date": "2020-07-05", "name": "Misano" },
-    { "date": "2020-07-25", "name": "Total 24 Hours of Spa" },
+    { "date": "2020-07-26", "name": "Imola" },
+    { "date": "2020-08-09", "name": "Misano" },
     { "date": "2020-09-06", "name": "Nürburgring" },
-    { "date": "2020-09-27", "name": "Hungaroring" },
-    { "date": "2020-10-11", "name": "Barcelona" }
+    { "date": "2020-09-13", "name": "Magny-Cours" },
+    { "date": "2020-09-27", "name": "Zandvoort" },
+    { "date": "2020-10-11", "name": "Barcelona" },
+    { "date": "2020-10-24", "name": "Total 24 Hours of Spa" },
+    { "date": "2020-11-15", "name": "Circuit Paul Ricard 1000km" }
   ]
 }
