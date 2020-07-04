@@ -4,36 +4,34 @@
   "season": "2020",
   "races": [
     { "date": "2020-02-09", "name": "Busch Clash at DAYTONA" },
-    { "date": "2020-02-16", "name": "DAYTONA 500" },
+    { "date": "2020-02-17", "name": "DAYTONA 500" },
     { "date": "2020-02-23", "name": "Pennzoil 400 presented by Jiffy Lube" },
 
     { "date": "2020-03-01", "name": "Auto Club 400" },
     { "date": "2020-03-08", "name": "FanShield 500" },
-    { "date": "2020-03-15", "name": "Folds of Honor QuikTrip 500" },
-    { "date": "2020-03-22", "name": "Dixie Vodka 400" },
-    { "date": "2020-03-29", "name": "O’Reilly Auto Parts 500" },
 
-    { "date": "2020-04-05", "name": "Food City 500" },
-    { "date": "2020-04-19", "name": "TOYOTA OWNERS 400" },
-    { "date": "2020-04-26", "name": "GEICO 500" },
-
-    { "date": "2020-05-03", "name": "NASCAR Cup Series Race at Dover" },
-    { "date": "2020-05-09", "name": "NASCAR Cup Series Race at Martinsville" },
-    { "date": "2020-05-16", "name": "NASCAR All Star Open" },
-    { "date": "2020-05-16", "name": "NASCAR All-Star Race" },
+    { "date": "2020-05-17", "name": "The Real Heroes 400" },
+    { "date": "2020-05-20", "name": "TOYOTA 500" },
     { "date": "2020-05-24", "name": "Coca-Cola 600" },
-    { "date": "2020-05-31", "name": "Kansas 400" },
+    { "date": "2020-05-28", "name": "Alsco Uniforms 500" },
+    { "date": "2020-05-31", "name": "Food City presents the Supermarket Heroes 500" },
 
-    { "date": "2020-06-07", "name": "FireKeepers Casino 400" },
-    { "date": "2020-06-14", "name": "Toyota / Save Mart 350" },
-    { "date": "2020-06-21", "name": "Kids Free 325" },
-    { "date": "2020-06-27", "name": "Chicagoland 400" },
-    { "date": "2020-06-28", "name": "Worry-Free Weather Guarantee 350" },
+    { "date": "2020-06-07", "name": "Folds of Honor QuikTrip 500" },
+    { "date": "2020-06-10", "name": "Blue-Emu Maximum Pain Relief 500" },
+    { "date": "2020-06-14", "name": "Dixie Vodka 400" },
+    { "date": "2020-06-22", "name": "GEICO 500" },
+    { "date": "2020-06-27", "name": "Pocono Organics 325 in partnership with Rodale Institute" },
+    { "date": "2020-06-28", "name": "Pocono 350" },
 
-    { "date": "2020-07-05", "name": "Big Machine Vodka 400 at the Brickyard Powered By Florida Georgia Line" },
-    { "date": "2020-07-11", "name": "Quaker State 400 Presented by Walmart" },
-    { "date": "2020-07-19", "name": "Foxwoods Resort Casino 301" },
+    { "date": "2020-07-05", "name": "Big Machine Hand Sanitizer 400 Powered By Big Machine Records" },
+    { "date": "2020-07-12", "name": "Quaker State 400 Presented by Walmart" },
+    { "date": "2020-07-15", "name": "NASCAR All-Star Open" },
+    { "date": "2020-07-15", "name": "NASCAR All-Star Race" },
 
+    { "date": "2020-07-19", "name": "O’Reilly Auto Parts 500" },
+    { "date": "2020-07-23", "name": "Kansas 400" },
+
+    { "date": "2020-08-02", "name": "Foxwoods Resort Casino 301" },
     { "date": "2020-08-09", "name": "Consumers Energy 400" },
     { "date": "2020-08-16", "name": "Go Bowling at The Glen" },
     { "date": "2020-08-23", "name": "Drydene 400" },
@@ -41,7 +39,7 @@
 
     { "date": "2020-09-06", "name": "*Southern 500" },
     { "date": "2020-09-12", "name": "*Federated Auto Parts 400" },
-    { "date": "2020-09-19", "name": "Bass Pro Shops NRA Night Race" },
+    { "date": "2020-09-19", "name": "*Bass Pro Shops NRA Night Race" },
     { "date": "2020-09-27", "name": "*South Point 400" },
 
     { "date": "2020-10-04", "name": "*Alabama 500" },
@@ -49,7 +47,7 @@
     { "date": "2020-10-18", "name": "*Hollywood Casino 400" },
     { "date": "2020-10-25", "name": "*Texas 500" },
 
-    { "date": "2020-11-01", "name": "*NASCAR Cup Series Fall Race at Martinsville" },
+    { "date": "2020-11-01", "name": "*Xfinity 500" },
     { "date": "2020-11-08", "name": "*NASCAR Cup Series Championship" }
   ]
 }
