@@ -3,16 +3,17 @@
   "seriesFormalName": "Deutsche Tourenwagen Masters",
   "season": "2020",
   "races": [
-    { "date": "2020-04-27", "name": "Zolder" },
-    { "date": "2020-05-18", "name": "Lausitzring" },
-    { "date": "2020-06-01", "name": "Igora Drive" },
-    { "date": "2020-06-15", "name": "Anderstorp" },
-    { "date": "2020-06-29", "name": "Monza" },
+    { "date": "2020-08-03", "name": "01 SPA-FRANCORCHAMPS" },
+    { "date": "2020-08-17", "name": "02 LAUSITZRING SPRINT" },
+    { "date": "2020-08-24", "name": "03 LAUSITZRING" },
 
-    { "date": "2020-07-13", "name": "Norisring" },
-    { "date": "2020-08-24", "name": "Brands Hatch" },
-    { "date": "2020-09-07", "name": "Assen" },
-    { "date": "2020-09-14", "name": "Nürburgring" },
-    { "date": "2020-10-05", "name": "Hockenheim" }
+    { "date": "2020-09-07", "name": "04 ASSEN" },
+    { "date": "2020-09-14", "name": "05 NÜRBURGRING GRAND PRIX" },
+    { "date": "2020-09-21", "name": "06 NÜRBURGRING SPRINT" },
+
+    { "date": "2020-10-12", "name": "07 ZOLDER" },
+    { "date": "2020-10-19", "name": "09 ZOLDER 2" },
+
+    { "date": "2020-11-09", "name": "09 HOCKENHEIMRING" }
   ]
 }
