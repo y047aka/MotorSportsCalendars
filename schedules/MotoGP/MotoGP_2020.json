@@ -21,11 +21,6 @@
     { "date": "2020-10-25", "name": "12 - Gran Premio de Teruel" },
 
     { "date": "2020-11-08", "name": "13 - Gran Premio de Europa" },
-    { "date": "2020-11-15", "name": "14 - Gran Premio Motul de la Comunitat Valenciana" },
-
-    { "date": "TBD", "name": "15 - Red Bull Grand Prix of The Americas" },
-    { "date": "TBD", "name": "16 - Gran Premio Motul de la República Argentina" },
-    { "date": "TBD", "name": "17 - OR Thailand Grand Prix" },
-    { "date": "TBD", "name": "18 - Shell Malaysia Motorcycle Grand Prix" }
+    { "date": "2020-11-15", "name": "14 - Gran Premio Motul de la Comunitat Valenciana" }
   ]
 }
