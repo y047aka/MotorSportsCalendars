@@ -12,6 +12,8 @@
     { "date": "2020-08-16", "name": "Spain" },
     { "date": "2020-08-30", "name": "Belgium" },
 
-    { "date": "2020-09-06", "name": "Italy" }
+    { "date": "2020-09-06", "name": "Italy" },
+    { "date": "2020-09-13", "name": "Mugello" },
+    { "date": "2020-09-27", "name": "Russia" }
   ]
 }
