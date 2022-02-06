@@ -1,0 +1,26 @@
+{
+  "seriesName": "IMSA WSCC",
+  "seriesFormalName": "IMSA WeatherTech SportsCar Championship",
+  "season": "2022",
+  "races": [
+    { "date": "2022-01-29", "name": "ROLEX 24 AT DAYTONA" },
+
+    { "date": "2022-03-18", "name": "MOBIL 1 TWELVE HOURS OF SEBRING PRESENTED BY ADVANCE AUTO PARTS" },
+
+    { "date": "2022-04-09", "name": "ACURA GRAND PRIX OF LONG BEACH" },
+
+    { "date": "2022-05-01", "name": "HYUNDAI MONTEREY SPORTS CAR CHAMPIONSHIP PRESENTED BY MOTUL" },
+    { "date": "2022-05-15", "name": "MID-OHIO SPORTS CAR CHALLENGE" },
+
+    { "date": "2022-06-04", "name": "CHEVROLET DETROIT GRAND PRIX PRESENTED BY LEAR" },
+    { "date": "2022-06-26", "name": "SAHLEN'S SIX HOURS OF THE GLEN" },
+
+    { "date": "2022-07-03", "name": "SPORTSCAR GRAND PRIX" },
+    { "date": "2022-07-16", "name": "NORTHEAST GRAND PRIX" },
+
+    { "date": "2022-08-07", "name": "IMSA SPORTSCAR WEEKEND" },
+    { "date": "2022-08-28", "name": "MICHELIN GT CHALLENGE AT VIR" },
+
+    { "date": "2022-10-01", "name": "MOTUL PETIT LE MANS" }
+  ]
+}
