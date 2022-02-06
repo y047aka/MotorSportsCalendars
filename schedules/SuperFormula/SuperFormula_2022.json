@@ -1,0 +1,22 @@
+{
+  "seriesName": "SUPER FORMULA",
+  "seriesFormalName": "SUPER FORMULA",
+  "season": "2022",
+  "races": [
+    { "date": "2022-04-09", "name": "Fuji Speedway" },
+    { "date": "2022-04-10", "name": "Fuji Speedway" },
+    { "date": "2022-04-24", "name": "Suzuka Circuit" },
+
+    { "date": "2022-05-22", "name": "Autopolis" },
+
+    { "date": "2022-06-19", "name": "Sportsland SUGO" },
+
+    { "date": "2022-07-17", "name": "Fuji Speedway" },
+
+    { "date": "2022-08-20", "name": "Mobility Resort Motegi" },
+    { "date": "2022-08-21", "name": "Mobility Resort Motegi" },
+
+    { "date": "2022-10-29", "name": "Suzuka Circuit" },
+    { "date": "2022-10-30", "name": "Suzuka Circuit" }
+  ]
+}
