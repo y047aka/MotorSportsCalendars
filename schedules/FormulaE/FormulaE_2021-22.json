@@ -1,0 +1,29 @@
+{
+  "seriesName": "Formula E",
+  "seriesFormalName": "ABB FIA Formula E World Championship",
+  "season": "2021-22",
+  "races": [
+    { "date": "2022-01-28", "name": "Diriyah E-Prix Race 1" },
+    { "date": "2022-01-29", "name": "Diriyah E-Prix Race 2" },
+
+    { "date": "2022-02-12", "name": "Mexico City E-Prix" },
+
+    { "date": "2022-04-09", "name": "Rome E-Prix Race 1" },
+    { "date": "2022-04-10", "name": "Rome E-Prix Race 2" },
+    { "date": "2022-04-30", "name": "Monaco E-Prix" },
+
+    { "date": "2022-05-14", "name": "Berlin E-Prix Race 1" },
+    { "date": "2022-05-15", "name": "Berlin E-Prix Race 2" },
+
+    { "date": "2022-06-04", "name": "Jakarta E-Prix" },
+
+    { "date": "2022-07-02", "name": "Vancouver E-Prix" },
+    { "date": "2022-07-16", "name": "New York City E-Prix Race 1" },
+    { "date": "2022-07-17", "name": "New York City E-Prix Race 2" },
+    { "date": "2022-07-30", "name": "London E-Prix Race 1" },
+    { "date": "2022-07-31", "name": "London E-Prix Race 2" },
+
+    { "date": "2022-08-13", "name": "Seoul E-Prix Race 1" },
+    { "date": "2022-08-14", "name": "Seoul E-Prix Race 2" }
+  ]
+}
