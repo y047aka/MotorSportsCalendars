@@ -1,0 +1,38 @@
+{
+  "seriesName": "F1",
+  "seriesFormalName": "Formula One World Championship",
+  "season": "2022",
+  "races": [
+    { "date": "2022-03-20", "name": "Bahrain" },
+    { "date": "2022-03-27", "name": "Saudi Arabia" },
+
+    { "date": "2022-04-10", "name": "Australia" },
+    { "date": "2022-04-24", "name": "Italy" },
+
+    { "date": "2022-05-08", "name": "United States" },
+    { "date": "2022-05-22", "name": "Spain" },
+    { "date": "2022-05-29", "name": "Monaco" },
+
+    { "date": "2022-06-12", "name": "Azerbaijan" },
+    { "date": "2022-06-19", "name": "Canada" },
+
+    { "date": "2022-07-03", "name": "Great Britain" },
+    { "date": "2022-07-10", "name": "Austria" },
+    { "date": "2022-07-24", "name": "France" },
+    { "date": "2022-07-31", "name": "Hungary" },
+
+    { "date": "2022-08-28", "name": "Belgium" },
+
+    { "date": "2022-09-04", "name": "Netherlands" },
+    { "date": "2022-09-11", "name": "Italy" },
+    { "date": "2022-09-25", "name": "Russia" },
+
+    { "date": "2022-10-02", "name": "Singapore" },
+    { "date": "2022-10-09", "name": "Japan" },
+    { "date": "2022-10-23", "name": "United States" },
+    { "date": "2022-10-30", "name": "Mexico" },
+
+    { "date": "2022-11-13", "name": "Brazil" },
+    { "date": "2022-11-20", "name": "Abu Dhabi" }
+  ]
+}
