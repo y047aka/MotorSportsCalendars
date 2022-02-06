@@ -1,0 +1,31 @@
+{
+  "seriesName": "IndyCar",
+  "seriesFormalName": "IndyCar Series",
+  "season": "2022",
+  "races": [
+    { "date": "2022-02-27", "name": "Firestone Grand Prix of St. Petersburg" },
+
+    { "date": "2022-03-20", "name": "XPEL 375" },
+
+    { "date": "2022-04-10", "name": "Acura Grand Prix of Long Beach" },
+
+    { "date": "2022-05-01", "name": "Honda Indy Grand Prix of Alabama" },
+    { "date": "2022-05-14", "name": "GMR Grand Prix" },
+    { "date": "2022-05-29", "name": "106th Running of the Indianapolis 500" },
+
+    { "date": "2022-06-05", "name": "Chevrolet Detroit Grand Prix" },
+    { "date": "2022-06-12", "name": "Sonsio Grand Prix at Road America" },
+
+    { "date": "2022-07-03", "name": "Honda Indy 200 at Mid-Ohio" },
+    { "date": "2022-07-17", "name": "Honda Indy Toronto" },
+    { "date": "2022-07-23", "name": "Hy-VeeDeals.com 250" },
+    { "date": "2022-07-24", "name": "Hy-Vee Salute To Farmers 300" },
+    { "date": "2022-07-30", "name": "Indianapolis Motor Speedway Road Course" },
+
+    { "date": "2022-08-07", "name": "Big Machine Music City Grand Prix" },
+    { "date": "2022-08-20", "name": "Bommarito Automotive Group 500" },
+
+    { "date": "2022-09-04", "name": "Grand Prix of Portland" },
+    { "date": "2022-09-11", "name": "Firestone Grand Prix of Monterey" }
+  ]
+}
